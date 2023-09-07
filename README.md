@@ -1,5 +1,6 @@
 ### Hello! I am Gabriel Campos!
 
+- 🧑🏼‍💻 I'm currently workingin the digital data department at Leroy in Portugal.
 - 🔭 I’m currently working on optimizing big data pipelines for real-time analytics.
 - 🌱 I’m currently learning about the latest in stream processing using technologies like Kafka and Apache Flink.
 - 👯 I’m looking to collaborate on open-source big data projects or tools that make data ingestion easier.
@@ -33,8 +34,8 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCSh6emdks-FaqgX0lN8oTRA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cabralzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/gabezztv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/B4quRHh6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<!--  	<a href="https://www.twitch.tv/gabezztv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/B4quRHh6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "mailto:gabrielcabralcampos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielcabralcampos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
